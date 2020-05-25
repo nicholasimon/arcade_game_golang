@@ -1,0 +1,8 @@
+If you are on a slower PC then disabling RAIN in the options menu (F1) will make the biggest improvement in terms of performance. None of the weather menu items have any effect on how the way the game plays and can all be turned off, they are just for appearance. Having RAIN enabled in weather will effect performance on all levels where it is raining.
+
+If you have a multi-monitor setup and experience issues then please make sure you have set the monitor you would like the game to display on as the Main Display in Windows Display Settings.
+
+Lowest possible resolution is 1366X768 the game should scale up to all larger 16:9 resolutions and has been tested to work up to 3840X2160.
+
+Minimum Specs (tested and working on Windows 10)
+Intel Atom
